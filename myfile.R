@@ -3,4 +3,4 @@
 
 # Example file for git / github OSCoffee
 
-x <- rnorm(100, mean = 1, sd = 2)
+x <- rnorm(100, mean = 1, sd = 3)
