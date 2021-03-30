@@ -6,3 +6,6 @@
 x <- rnorm(100, mean = 1, sd = 3)
 
 y <- 11
+
+# suggested change here
+z <- 25
